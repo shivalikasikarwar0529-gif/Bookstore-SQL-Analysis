@@ -38,5 +38,12 @@ This analysis identifies which genres are driving the most revenue by joining bo
 A deep dive into our inventory to see which authors have the highest presence and average book pricing.
 ![Author Analysis]   <img width="1365" height="721" alt="Average price of each author&#39;s book available in stock" src="https://github.com/user-attachments/assets/ad331ef1-0947-4b77-ba85-6c3a581c86e5" />
 
+---
+### 📖 Detailed Step-by-Step Case Study
+I have documented the complete process, including all **Basic to Advanced queries** and their respective results, in a detailed article on Medium.
+
+👉 **[Read the Full Case Study on Medium](https://medium.com/@shivalikasikarwar0529/readers-heaven-a-data-driven-deep-dive-into-book-store-sales-using-sql-4101877a0da6)**
+---
+
 
 
